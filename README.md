@@ -42,7 +42,7 @@ O cliente irá submeter os seguintes dados para o Endpoint:
 
 ```
 curl --request POST \
-https://aaaaaaa.execute-api.us-east-1.amazonaws.com/ingestclickstream\?userid\=JohnDoe\&deviceid\=mobile\&category\=footwear\&subcategory\=shoes
+https://aaaaaaaaaa.execute-api.us-east-1.amazonaws.com/ingestclickstream?\?userid\=JohnDoe\&deviceid\=mobile\&category\=footwear\&subcategory\=shoes\&activitytype=AddToCart
 ```
 
 Créditos
